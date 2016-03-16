@@ -1,2 +1,3 @@
 *.gitignore
-imglazyload.js
+*.js
+!*min.js
